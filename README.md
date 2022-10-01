@@ -1,6 +1,6 @@
-#### I'm SangsunHong^^
+### ☀️Sunny, I'm SangsunHong^^👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangsunHong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-> **Currently Learning**
+>📚✏️📖 **Currently Learning**
 
 | HTML5 | CSS  | Jvscript | Python | SQL  | Rstudio | RPA(Uipath) |
 | ----- | ---- | -------- | ------ | ---- | ------- | ----------- |
@@ -9,11 +9,14 @@
 
 ![Python](https://camo.githubusercontent.com/8a64e82b88b71294679fccf25fc132fe4f2aee0d2b44174559df4dc1f9bd507b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333134333534432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 
-![git](https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)![satman778](https://camo.githubusercontent.com/2da78db4a1c05f887a308d4772194d52c1c287470e487bc1765dbb1036290012/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7361746d616e3737382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
-> **My Hobby**
+![git](https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667)
 
-- Riding a bike, hiking, go mountain, With Music
-- [Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
+![satman778](https://camo.githubusercontent.com/2da78db4a1c05f887a308d4772194d52c1c287470e487bc1765dbb1036290012/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7361746d616e3737382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
+
+
+> **My Hobby**
+- 🚴 Riding a bike, hiking, go mountain, 🎸With Music
+- 🎻[Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
 
   ###### <img src="./images/cycle(600-350).png" alt="cycle(300-175).png" style="zoom: 50%;" />
 
