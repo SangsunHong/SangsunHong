@@ -1,9 +1,9 @@
-### ☀️HSunny,  I'm SangsunHong^^👋
+### ☀️ I'm SangsunHong^^ HSunny 👋
 
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSangsunHong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
->📚✏️📖 **Currently Learning**
+### 📚✏️📖 **Currently Learning**
 
 | HTML5 | CSS  | Jvscript | Python | SQL  | Rstudio | github | git |
 | ----- | ---- | -------- | ------ | ---- | ------- | ------ | --- |
@@ -23,7 +23,7 @@
 ![satman778](https://camo.githubusercontent.com/2da78db4a1c05f887a308d4772194d52c1c287470e487bc1765dbb1036290012/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7361746d616e3737382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
 
 
-> 🚗🍺🍜⌚ **My Hobby**
+### 🚗🍺🍜⌚ **My Hobby**
 - 🚴 Riding a bike, hiking, go mountain, travel, 🎸With Music
 - 🎻[Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
 
