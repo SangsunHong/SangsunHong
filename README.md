@@ -33,7 +33,7 @@
 ![30-uipath](/images/30-uipath.svg)
 ![30-stu](/images/rpa.svg)
 ![30-stu](/images/30-stu.svg)
-![30-ref](/images/30-ref.svg)
+![30-refw](/images/30-refw.svg)
 ![30-och](/images/30-och.svg)
 >>>>>>> d0022d4 (uipathiconchange)
 
