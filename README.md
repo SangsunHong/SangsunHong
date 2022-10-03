@@ -19,6 +19,7 @@
 | ---------- | ------------ | ---------- |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![uipath_30_](/images/uipath_30_.svg)![RPA_30_](/images/RPA_30_.svg)![stu_30_](/images/stu_30_.svg)![ref_30_](/images/ref_30_.svg)![och_30_](/images/och_30_.svg)
 =======
 ![uipath_30](/images/uipath_30.svg)
@@ -28,6 +29,13 @@
 ![och_30_](/images/och_30_.svg)
 >>>>>>> 6284c9c (iconadd6)
 
+=======
+![30-uipath](/images/30-uipath.svg)
+![30-stu](/images/rpa.svg)
+![30-stu](/images/30-stu.svg)
+![30-ref](/images/30-ref.svg)
+![30-och](/images/30-och.svg)
+>>>>>>> d0022d4 (uipathiconchange)
 
 ![satman778](https://camo.githubusercontent.com/2da78db4a1c05f887a308d4772194d52c1c287470e487bc1765dbb1036290012/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d7361746d616e3737382673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374)
 >>>>>>> 446bd2d (iconadd3)
