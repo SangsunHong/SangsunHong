@@ -21,7 +21,7 @@
 ![30-och](/images/30-och.svg)
 
 
-[![HSunny GitHub stats](/images/api.svg)](https://github-readme-stats.vercel.app/api?username=SangsunHong)
+[![HSunny GitHub stats](https://github-readme-stats.vercel.app/api?username=SangsunHong&theme=github_dark&show_icons=true)
 
 ### 🚗🍺🍜⌚ **My Hobby**
 - 🚴 Riding a bike, hiking, go mountain, travel, 🎸With Music
