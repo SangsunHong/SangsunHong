@@ -25,6 +25,7 @@
 
 ### 🚗🍺🍜⌚ **My Hobby**
 - 🚴 Riding a bike, hiking, go mountain, travel, 🎸With Music
+- 🎵[미 해병이 부르는 아리랑](https://youtu.be/O1WE-tTDzL4)
 - 🎻[Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
 
   ###### <img src="./images/cycle(600-350).png" alt="cycle(300-175).png" style="zoom: 25%;" />
