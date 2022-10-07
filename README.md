@@ -19,7 +19,6 @@
 ![30-stu](/images/30-stu.svg)
 ![30-refw](/images/30-refw.svg)
 ![30-och](/images/30-och.svg)
->>>>>>> d0022d4 (uipathiconchange)
 
 
 [![HSunny GitHub stats](/images/api.svg)](https://github-readme-stats.vercel.app/api?username=SangsunHong)
