@@ -1,7 +1,5 @@
 ### github 기초
 
-
-
 ### - 리눅스 커맨드라인 기초
 
 리포지토리
@@ -200,7 +198,7 @@ git merge BranchName
 #### 몇가지 명령어 사용 예
 ```
   git reflog 명령어를 사용해 HEAD가 가리키던 커밋 이력을 볼 수 있음
-  git checkout main   캐럿은 한단계 부모 위치로 이동
+  git checkout main^   캐럿은 한단계 부모 위치로 이동
   git checkout HEAD~4   HEAD는 4단계 부모로 이동
   git checkout -f main HEAD~3 main을 강제이동(메인이 아닌 branch에서 사용)
 ```
