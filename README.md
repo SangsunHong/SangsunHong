@@ -25,6 +25,7 @@
 
 ### 🚗🍺🍜⌚ **My Hobby**
 - 🚴 Riding a bike, hiking, go mountain, travel, 🎸With Music
+- 🎹[지브리 OST 오케스트라 Ver. l 지브리 세계에 빠져보자](https://youtu.be/alLs9S4pwo0)
 - 🎵[미 해병이 부르는 아리랑](https://youtu.be/O1WE-tTDzL4)
 - 🎻[Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
 
