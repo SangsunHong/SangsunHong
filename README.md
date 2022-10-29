@@ -25,6 +25,7 @@
 
 ### 🚗🍺🍜⌚ **My Hobby**
 - 🚴 Riding a bike, hiking, go mountain, travel, 🎸With Music
+- ♪[윤석열 퇴진 집회 대박 공연 "지랄하고 자빠졌네"](https://www.youtube.com/watch?v=7iHiMj-a8Wk)
 - 🎹[지브리 OST 오케스트라 Ver. l 지브리 세계에 빠져보자](https://youtu.be/alLs9S4pwo0)
 - 🎵[미 해병이 부르는 아리랑](https://youtu.be/O1WE-tTDzL4)
 - 🎻[Three Thousand Years of Longing OST of Djinn Theme](https://youtu.be/GKq298nzvR0)
